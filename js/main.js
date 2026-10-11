@@ -82,7 +82,7 @@ function iniciarHome() {
     }
   } else if (arte) arte.hidden = true;
   $("#sec-lancamentos").hidden = !lancs.length;
-  $("#sec-destaques").hidden = !destaques.length;
+  $("#sec-destaques").hidden = !destaques.length || destaques.length === todos.length;
 }
 
 document.addEventListener("DOMContentLoaded", () => {

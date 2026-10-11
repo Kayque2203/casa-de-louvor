@@ -1,4 +1,4 @@
-# Casa de Louvor, plataforma de portfólios musicais gospel
+# NS PRODUÇÕES, plataforma de portfólios musicais gospel
 
 Vitrine de artistas e músicas feita só com HTML, CSS e JavaScript puros. Sem build, sem dependências e compatível com GitHub Pages.
 
@@ -8,7 +8,6 @@ Site: https://kayque2203.github.io/casa-de-louvor/
 
 - O **código** do projeto (HTML, CSS e JavaScript) está sob a licença **MIT**, e o texto completo está no arquivo `LICENSE`.
 - A licença MIT **não cobre** o conteúdo dos artistas: fotos, capas, músicas, vídeos, nomes e textos. Tudo isso pertence aos respectivos autores, com **todos os direitos reservados**, e não pode ser copiado, redistribuído ou reutilizado sem autorização deles.
-- Os artistas fictícios (Ana Luz, Davi Rocha e Coral Monte Sião) e seus lançamentos são apenas exemplos de demonstração.
 
 ## 1. Abrir localmente
 
