@@ -1,4 +1,4 @@
-# NS PRODUÇÕES, plataforma de portfólios musicais gospel
+# MS PRODUÇÕES, plataforma de portfólios musicais gospel
 
 Vitrine de artistas e músicas feita só com HTML, CSS e JavaScript puros. Sem build, sem dependências e compatível com GitHub Pages.
 

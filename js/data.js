@@ -1,7 +1,7 @@
 /* DADOS DA PLATAFORMA — edite aqui.
    Campos opcionais podem ser omitidos ou deixados como null. */
 window.PLATAFORMA = {
-  nome: "NS PRODUÇÕES",
+  nome: "MS PRODUÇÕES",
   tagline: "Música gospel que leva a Palavra mais longe.",
   descricao: "Conheça vozes, bandas e corais independentes. Ouça os lançamentos e acesse as plataformas oficiais de cada ministério."
 };
